@@ -42,3 +42,13 @@ Mini-Projek-Kalkulator/
 ├── script/
 │   └── script.js     # Logika kalkulasi dengan JavaScript
 └── assets/           # (Opsional) File gambar atau aset tambahan
+```
+
+🛠️ Teknologi yang Digunakan
+HTML5 → struktur halaman
+CSS → styling dan layout
+JavaScript → logika interaktif dan perhitungan
+
+👨‍💻 Pembuat
+Projek ini dibuat oleh **Triantoro Rizky Anggara** (aka *BotSlayer21*) pada tahun 2025.  
+📚 Projek ini merupakan hasil latihan dan portofolio setelah mempelajari materi di **MySkill**.
