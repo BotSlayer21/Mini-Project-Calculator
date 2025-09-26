@@ -27,7 +27,7 @@ Dilengkapi dengan fitur riwayat operasi, hasil sementara, serta dukungan input m
 
 ## 📷 Preview
 
-![Preview Kalkulator]([./Project-Preview.png](https://github.com/BotSlayer21/Mini-Project-Calculator/blob/main/Previrew-Project-Calculator.png))
+![Preview Kalkulator](https://github.com/BotSlayer21/Mini-Project-Calculator/blob/main/Previrew-Project-Calculator.png)
 
 ---
 
